@@ -1,6 +1,6 @@
-# ## 📚 Online Bookstore SQL Analysis Project
+#  📚 Online Bookstore SQL Analysis Project
 
-## 📌 Project Overview
+#  Project Overview
 
 The Online Bookstore SQL Analysis Project is a relational database project developed using PostgreSQL.
 
@@ -20,7 +20,7 @@ This project demonstrates how SQL can be used to transform raw data into meaning
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The main objectives of this project are:
 
@@ -36,11 +36,11 @@ The main objectives of this project are:
 
 ---
 
-# 🗂️ Dataset Description
+#  Dataset Description
 
 The project contains three datasets.
 
-## 📚 1. Books Dataset
+##  1. Books Dataset
 
 The `Books` table contains information about the books available in the bookstore.
 
@@ -68,7 +68,7 @@ This table can be used to analyze:
 
 ---
 
-## 👥 2. Customers Dataset
+#  2. Customers Dataset
 
 The `Customers` table contains information about bookstore customers.
 
@@ -90,7 +90,7 @@ This table can be used to analyze:
 
 ---
 
-## 🛒 3. Orders Dataset
+##  3. Orders Dataset
 
 The `Orders` table contains information about customer purchases.
 
@@ -117,7 +117,7 @@ This table can be used to analyze:
 
 ---
 
-# 🔗 Database Relationships
+#  Database Relationships
 
 The three tables are related using common columns.
 
