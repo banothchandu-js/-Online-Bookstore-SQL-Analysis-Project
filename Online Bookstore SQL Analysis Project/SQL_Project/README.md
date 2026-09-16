@@ -1,4 +1,4 @@
-#  📚 Online Bookstore SQL Analysis Project
+#   Online Bookstore SQL Analysis Project
 
 #  Project Overview
 
@@ -18,8 +18,6 @@ The project uses three CSV datasets — `Books`, `Customers`, and `Orders` — w
 
 This project demonstrates how SQL can be used to transform raw data into meaningful business information.
 
----
-
 #  Project Objectives
 
 The main objectives of this project are:
@@ -34,14 +32,9 @@ The main objectives of this project are:
 8. Answer business-related questions using SQL.
 9. Practice both basic and advanced SQL concepts.
 
----
-
 #  Dataset Description
-
 The project contains three datasets.
-
 ##  1. Books Dataset
-
 The `Books` table contains information about the books available in the bookstore.
 
 Important fields include:
@@ -53,9 +46,7 @@ Important fields include:
 - `Published_Year`
 - `Price`
 - `Stock`
-
-### Purpose
-
+# Purpose
 This table can be used to analyze:
 
 - Book genres
@@ -66,10 +57,7 @@ This table can be used to analyze:
 - Most and least expensive books
 - Books with low stock
 
----
-
 #  2. Customers Dataset
-
 The `Customers` table contains information about bookstore customers.
 
 Important fields include:
@@ -78,8 +66,7 @@ Important fields include:
 - Customer details
 - City
 - Country
-
-### Purpose
+# Purpose
 
 This table can be used to analyze:
 
@@ -88,9 +75,7 @@ This table can be used to analyze:
 - Customer spending
 - Purchasing behavior
 
----
-
-##  3. Orders Dataset
+# 3. Orders Dataset
 
 The `Orders` table contains information about customer purchases.
 
@@ -103,7 +88,7 @@ Important fields include:
 - `Quantity`
 - `Total_Amount`
 
-### Purpose
+# Purpose
 
 This table can be used to analyze:
 
@@ -114,8 +99,6 @@ This table can be used to analyze:
 - Customer spending
 - Sales by genre
 - Sales by author
-
----
 
 #  Database Relationships
 
