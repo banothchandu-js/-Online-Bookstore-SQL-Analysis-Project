@@ -11,7 +11,7 @@ The purpose of this project is to analyze an online bookstore's data using SQL a
     💰 Revenue
     📦 Inventory
     📊 Sales
-    👤 Customer purchasing behavior
+    👤 Customer purchasing behavior.
 
 The project uses three CSV datasets — Books, Customers, and Orders — which are connected through common columns such as Book_ID and Customer_ID.
 
